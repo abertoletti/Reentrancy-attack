@@ -5,8 +5,10 @@ Smart contract written with solidity v0.4.19 and truffle framework.
 
 ## Installation and Test
 
-Deploy on your Ethereum Network two contracts: PrivateBank and TimeForHack;
+Deploy on your Ethereum Network two contracts: PrivateBank and TimeForHack.
+
 Then, set the PrivateBank address into TimeForHack contract with the "setTarget" function.
+
 Finally call the "start" function on TimeForHack contract. (Set an high gasLimit value)
 
 ## Motivation
